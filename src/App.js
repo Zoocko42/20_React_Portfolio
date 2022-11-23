@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './components/header/Header';
 import Project from './components/Project';
-import Footer from './components/Footer';
+import Footer from './components/Footer'
 
 function App() {
   return (
